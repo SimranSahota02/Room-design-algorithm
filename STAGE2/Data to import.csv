@@ -1,0 +1,37 @@
+Furn_id,Name,Height,Blocktype
+1,Armchair,0,2
+2,Bed,0,0
+3,Bedside table,1,2
+4,Bean bag,0,2
+5,Bunk bed,0,0
+6,Cabinet,0,1
+7,Chair,0,2
+8,Coffee table,1,2
+9,Desk,1,2
+10,Desk chair,0,2
+11,Desk lamp,2,2
+12,Dishwasher,0,0
+13,Dustbin,0,2
+14,Drying machine,1,0
+15,Fridge,2,0
+16,Fridge freezer,0,0
+17,Games table,0,0
+18,Kitchen island,1,2
+19,L sofa,0,0
+20,Lamp,0,2
+21,Microwave,2,0
+22,Oven,0,0
+23,Short cabinet,1,1
+24,Sink,2,1
+25,Small bin,2,2
+26,Sofa,0,0
+27,Stool,0,2
+28,Table,1,2
+29,Top cabinet,2,1
+30,TV,2,1
+31,TV cabinet,0,1
+32,U sofa,0,0
+33,Wardrobe,0,0
+34,Washing machine,1,0
+35,Vase,0,2
+
